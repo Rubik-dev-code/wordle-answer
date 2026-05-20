@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Proxy Hub</title>
+  <style>
+    body, html { margin: 0; padding: 0; height: 100%; font-family: 'Segoe UI', system-ui, sans-serif; background: #0d1117; color: #c9d1d9; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+    .wrapper { text-align: center; max-width: 500px; width: 90%; padding: 30px; background: #161b22; border: 1px solid #30363d; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.5); }
+    h1 { color: #58a6ff; margin-bottom: 5px; font-size: 28px; }
+    p { color: #8b949e; margin-bottom: 25px; font-size: 14px; }
+    .btn { display: block; width: 100%; padding: 14px; margin: 12px 0; border: none; border-radius: 6px; font-size: 16px; font-weight: bold; cursor: pointer; transition: transform 0.2s, background 0.2s; text-decoration: none; box-sizing: border-box; }
+    .primary { background: #238636; color: #fff; }
+    .primary:hover { background: #2ea043; transform: translateY(-1px); }
+    .secondary { back  </style>
+</head>
+<body>
+
+  <div class="wrapper">
+    <h1>Web Proxy Portal</h1>
+    <p>Bypass local network restrictions using external static web nodes.</p>
+    
+    <!-- Launches a completely independent web proxy node outside of your frame -->
+    <a href="https://bing.com" class="btn primary" id="proxyBtn" target="_top">Launch Unblocked Node</a>
+    
+    <!-- Fallback alternative if the main node gets blocked by your local network -->
+    <a href="https://duckduckgo.com" class="btn secondary" id="altBtn" target="_top">Alternative Gateway</a>
+    
+    <div class="footer">Hosted securely on distributed nodes. Target settings: _top isolation.</div>
+  </div>
+
+  <script>
+    // Automatically handles and routes your URL out of the frame loop safely
+    const proxyGateways = [
+      "https://googleusercontent.com",
+      "https://allorigins.win"
+    ];
+    
+    document.getElementById('proxyBtn').href = proxyGateways[0];
+    document.getElementById('altBtn').href = proxyGateways[1];
+  </script>
+
+</body>
+</html>

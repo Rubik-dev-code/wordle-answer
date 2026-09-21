@@ -1,41 +1,7 @@
-<div align="center">
-  <style>
-    .rainbow-typing-container {
-      font-family: 'Courier New', Courier, monospace;
-      font-size: 42px;
-      font-weight: bold;
-      display: inline-block;
-      white-space: nowrap;
-      margin: 40px auto;
-      background: linear-gradient(to right, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #8B00FF);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      border-right: 4px solid #00FF00;
-      width: 0;
-      animation: 
-        typing-sequence 4s steps(24) infinite,
-        cursor-blink 0.8s infinite;
-    }
 
-    @keyframes typing-sequence {
-      0% { width: 0; }
-      40% { width: 100%; }
-      60% { width: 100%; }
-      90% { width: 0; }
-      100% { width: 0; }
-    }
-
-    @keyframes cursor-blink {
-      50% { border-color: transparent; }
-    }
-  </style>
-
-  <div class="rainbow-typing-container">
-    🟩 Wordle Daily Inspector
-  </div>
-</div>
-
-
+  <p align="center">
+  $$\Huge\color{#FF0000}W\color{#FF7F00}o\color{#FFFF00}r\color{#00FF00}d\color{#0000FF}l\color{#4B0082}e\space\color{#8B00FF}D\color{#FF0000}a\color{#FF7F00}i\color{#FFFF00}l\color{#00FF00}y\space\color{#0000FF}I\color{#4B0082}n\color{#8B00FF}s\color{#FF0000}p\color{#FF7F00}e\color{#FFFF00}c\color{#00FF00}t\color{#0000FF}o\color{#4B0082}r$$
+</p>
 
 ---
 

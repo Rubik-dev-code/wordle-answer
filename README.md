@@ -1,5 +1,5 @@
 <p align="center">
-  $$\large\color{#FF0000}W\color{#FF7F00}o\color{#FFFF00}r\color{#00FF00}d\color{#0000FF}l\color{#4B0082}e\space\color{#8B00FF}D\color{#FF0000}a\color{#FF7F00}i\color{#FFFF00}l\color{#00FF00}y\space\color{#0000FF}I\color{#4B0082}n\color{#8B00FF}s\color{#FF0000}p\color{#FF7F00}e\color{#FFFF00}c\color{#00FF00}t\color{#0000FF}o\color{#4B0082}r$$
+  <img src="https://herokuapp.com">
 </p>
 
 

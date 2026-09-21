@@ -9,7 +9,6 @@
 
 * **Zero-Setup Execution:** Runs natively directly out of your browser's bookmark bar.
 * **Realistic Emulated Typing:** Simulates visual physical button clicks on the virtual Wordle keyboard layout with customized keystroke delays.
-* **Johnston/Grimes Timezone Sync:** Anchored directly to `America/Chicago` (Central Time) parameters to prevent date rollover bugs and API drop-offs.
 * **Dramatic Calculation Pause:** Displays a realistic overlay alert to convince onlookers the machine is computing complex multi-variable elimination paths.
 
 ---

@@ -1,9 +1,6 @@
-<h1 align="center">
-  🟩 
-  <span style="color: #FF0000;">W</span><span style="color: #FF7F00;">o</span><span style="color: #FFFF00;">r</span><span style="color: #00FF00;">d</span><span style="color: #0000FF;">l</span><span style="color: #4B0082;">e</span> 
-  <span style="color: #8B00FF;">D</span><span style="color: #FF0000;">a</span><span style="color: #FF7F00;">i</span><span style="color: #FFFF00;">l</span><span style="color: #00FF00;">y</span> 
-  <span style="color: #0000FF;">I</span><span style="color: #4B0082;">n</span><span style="color: #8B00FF;">s</span><span style="color: #FF0000;">p</span><span style="color: #FF7F00;">e</span><span style="color: #FFFF00;">c</span><span style="color: #00FF00;">t</span><span style="color: #0000FF;">o</span><span style="color: #4B0082;">r</span>
-</h1>
+<p align="center">
+  $$\large\color{#FF0000}W\color{#FF7F00}o\color{#FFFF00}r\color{#00FF00}d\color{#0000FF}l\color{#4B0082}e\space\color{#8B00FF}D\color{#FF0000}a\color{#FF7F00}i\color{#FFFF00}l\color{#00FF00}y\space\color{#0000FF}I\color{#4B0082}n\color{#8B00FF}s\color{#FF0000}p\color{#FF7F00}e\color{#FFFF00}c\color{#00FF00}t\color{#0000FF}o\color{#4B0082}r$$
+</p>
 
 
 ---

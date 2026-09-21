@@ -16,6 +16,9 @@
 
 ## 🚀 How to Install & Use
 
+If you want to use the Dev menu either Ctrl+Shift+J or Cmd+Shift+J the code is here -> https://github.com/Rubik-dev-code/wordle-answer/blob/main/copy%26paste  
+
+If you want to Use bookmarklets then the code is here ->
 
 ---
 

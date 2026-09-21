@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://herokuapp.com🟩+Wordle+Daily+Inspector">
-</p>
+<h1 align="center">
+  🟩 
+  <span style="color: #FF0000;">W</span><span style="color: #FF7F00;">o</span><span style="color: #FFFF00;">r</span><span style="color: #00FF00;">d</span><span style="color: #0000FF;">l</span><span style="color: #4B0082;">e</span> 
+  <span style="color: #8B00FF;">D</span><span style="color: #FF0000;">a</span><span style="color: #FF7F00;">i</span><span style="color: #FFFF00;">l</span><span style="color: #00FF00;">y</span> 
+  <span style="color: #0000FF;">I</span><span style="color: #4B0082;">n</span><span style="color: #8B00FF;">s</span><span style="color: #FF0000;">p</span><span style="color: #FF7F00;">e</span><span style="color: #FFFF00;">c</span><span style="color: #00FF00;">t</span><span style="color: #0000FF;">o</span><span style="color: #4B0082;">r</span>
+</h1>
+
 
 ---
 
